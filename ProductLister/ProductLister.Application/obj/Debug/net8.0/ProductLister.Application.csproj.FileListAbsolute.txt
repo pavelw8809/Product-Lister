@@ -1,0 +1,16 @@
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\bin\Debug\net8.0\ProductLister.Application.deps.json
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\bin\Debug\net8.0\ProductLister.Application.dll
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\bin\Debug\net8.0\ProductLister.Application.pdb
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\bin\Debug\net8.0\ProductLister.Domain.dll
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\bin\Debug\net8.0\ProductLister.Domain.pdb
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.csproj.AssemblyReference.cache
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.AssemblyInfoInputs.cache
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.AssemblyInfo.cs
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.csproj.CoreCompileInputs.cache
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.sourcelink.json
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductL.090355DE.Up2Date
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.dll
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\refint\ProductLister.Application.dll
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ProductLister.Application.pdb
+C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Application\obj\Debug\net8.0\ref\ProductLister.Application.dll
