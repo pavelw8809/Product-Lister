@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj": {}
+    "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj": {
+    "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj",
+        "projectUniqueName": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj",
         "projectName": "ProductLister.API",
-        "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj",
-        "packagesPath": "C:\\Users\\PWieczorek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.API\\obj\\",
+        "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.API\\ProductLister.API.csproj",
+        "packagesPath": "C:\\Users\\wiecz\\.nuget\\packages\\",
+        "outputPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PWieczorek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiecz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj": {
-                "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj"
+              "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj": {
+                "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj"
               },
-              "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
-                "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj"
+              "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
+                "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj"
               },
-              "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj"
+              "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj": {
+                "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj"
               }
             }
           }
@@ -55,7 +55,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -93,24 +93,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj": {
+    "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj",
+        "projectUniqueName": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj",
         "projectName": "ProductLister.Application",
-        "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj",
-        "packagesPath": "C:\\Users\\PWieczorek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\obj\\",
+        "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj",
+        "packagesPath": "C:\\Users\\wiecz\\.nuget\\packages\\",
+        "outputPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PWieczorek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiecz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,8 +126,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
-                "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj"
+              "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
+                "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj"
               }
             }
           }
@@ -142,7 +142,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -173,24 +173,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
+    "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj",
+        "projectUniqueName": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj",
         "projectName": "ProductLister.Domain",
-        "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj",
-        "packagesPath": "C:\\Users\\PWieczorek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\obj\\",
+        "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj",
+        "packagesPath": "C:\\Users\\wiecz\\.nuget\\packages\\",
+        "outputPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PWieczorek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiecz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -218,7 +218,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -239,24 +239,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj": {
+    "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj",
+        "projectUniqueName": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj",
         "projectName": "ProductLister.Infrastructure",
-        "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\PWieczorek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\obj\\",
+        "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\ProductLister.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\wiecz\\.nuget\\packages\\",
+        "outputPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PWieczorek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiecz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -272,11 +272,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj": {
-                "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj"
+              "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj": {
+                "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Application\\ProductLister.Application.csproj"
               },
-              "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
-                "projectPath": "C:\\Users\\PWieczorek\\Projects\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj"
+              "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj": {
+                "projectPath": "F:\\_PROG\\_PROD\\Product-Lister\\ProductLister\\ProductLister.Domain\\ProductLister.Domain.csproj"
               }
             }
           }
@@ -291,7 +291,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -300,6 +300,14 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.66, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
@@ -326,7 +334,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

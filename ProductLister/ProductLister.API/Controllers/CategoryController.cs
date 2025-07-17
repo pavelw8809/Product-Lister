@@ -19,7 +19,6 @@ namespace ProductLister.API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CategoryDto>>> GetAll(CancellationToken ct)
         {
-            await Task.Delay(2000);
             var result = await _mediator.Send(new GetAllCategoriesQuery(), ct);
             return Ok(result);
         }

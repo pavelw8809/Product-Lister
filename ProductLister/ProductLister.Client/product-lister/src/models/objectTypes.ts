@@ -9,5 +9,13 @@ export interface Product {
     name: string;
     vendor: string;
     price: number;
+	formattedPrice: string;
     categories: Category[];
+}
+
+export interface NewProduct {
+	name: string;
+	vendor: string;
+	price: number;
+	categoryIds: string[]
 }

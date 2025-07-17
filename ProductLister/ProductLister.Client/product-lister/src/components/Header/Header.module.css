@@ -1,0 +1,16 @@
+.navlink > a {
+	text-decoration: none;
+	color: #ccc;
+	font-size: 1.2em;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+
+.navlink > a:hover {
+	background-color: hsl(0, 0%, 80%);
+	color: #333;
+}
+
+header {
+	margin-bottom: 50px;
+}

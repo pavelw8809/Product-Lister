@@ -347,6 +347,11 @@
             "type": "number",
             "format": "double"
           },
+          "formattedPrice": {
+            "type": "string",
+            "nullable": true,
+            "readOnly": true
+          },
           "categories": {
             "type": "array",
             "items": {

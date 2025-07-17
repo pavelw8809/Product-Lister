@@ -29,7 +29,7 @@ namespace ProductLister.Application.Commands.ProductItems
                 ProductId = request.Product.Id,
                 ProductName = request.Product.Name,
                 ProductVendor = request.Product.Vendor,
-                ProductPrice = request.Product.Price,
+                ProductPrice = decimal.Round(request.Product.Price, 2, MidpointRounding.AwayFromZero),
                 CategoryIds = request.Product.CategoryIds
             };
 
@@ -41,7 +41,7 @@ namespace ProductLister.Application.Commands.ProductItems
                 Id = modifiedItem.ProductId,
                 Name = modifiedItem.ProductName,
                 Vendor = modifiedItem.ProductVendor,
-                Price = modifiedItem.ProductPrice,
+                Price = decimal.Round(modifiedItem.ProductPrice, 2, MidpointRounding.AwayFromZero),
                 Categories = categories.Select(c => new CategoryDto
                 {
                     Id = c.CategoryId,

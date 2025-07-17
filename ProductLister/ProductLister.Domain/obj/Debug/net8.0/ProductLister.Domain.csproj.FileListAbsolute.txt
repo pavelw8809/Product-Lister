@@ -10,3 +10,15 @@ C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Domain\o
 C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\refint\ProductLister.Domain.dll
 C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.pdb
 C:\Users\PWieczorek\Projects\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ref\ProductLister.Domain.dll
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\bin\Debug\net8.0\ProductLister.Domain.deps.json
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\bin\Debug\net8.0\ProductLister.Domain.dll
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\bin\Debug\net8.0\ProductLister.Domain.pdb
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.AssemblyInfoInputs.cache
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.AssemblyInfo.cs
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.csproj.CoreCompileInputs.cache
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.sourcelink.json
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.dll
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\refint\ProductLister.Domain.dll
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ProductLister.Domain.pdb
+F:\_PROG\_PROD\Product-Lister\ProductLister\ProductLister.Domain\obj\Debug\net8.0\ref\ProductLister.Domain.dll

@@ -1,0 +1,12 @@
+.categoryContainer {
+	margin: 5px;
+	border: solid 1px #ccc;
+	display: flex;
+	padding: 10px 15px;
+	font-size: 1.3em;
+	border-radius: 8px;
+}
+
+.categoryMark {
+	margin-right: 10px;
+}

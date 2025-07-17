@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using ProductLister.Application.Queries.Categories;
 using ProductLister.Domain.Interfaces.Categories;
 using ProductLister.Domain.Interfaces.Products;
+using ProductLister.Infrastructure.Middlewares;
 using ProductLister.Infrastructure.Repositories.Categories;
 using ProductLister.Infrastructure.Repositories.Products;
 
@@ -15,15 +16,13 @@ builder.Services.AddCors(options =>
         policy.WithOrigins("http://localhost:5173")
             .WithMethods("GET", "POST", "PUT", "DELETE")
             .WithHeaders("Content-Type", "Authorization");
-            //.AllowAnyHeader();
-    }
-    );
+    });
 });
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -37,15 +36,18 @@ builder.Services.AddScoped<IProductCommandRepository, ProductCommandRepository>(
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
+app.UseHttpsRedirection();
+
 app.UseCors("AllowClientApp");
 
-app.UseHttpsRedirection();
+app.UseMiddleware<ErrorHandlerMiddleware>();
 
 app.UseAuthorization();
 

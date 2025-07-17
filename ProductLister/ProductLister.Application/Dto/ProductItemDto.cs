@@ -13,6 +13,7 @@ namespace ProductLister.Application.Dto
         public string Name { get; set; }
         public string Vendor { get; set; }
         public decimal Price { get; set; }
+        public string FormattedPrice => Price.ToString("0.00");
         public List<CategoryDto> Categories { get; set; } = new();
     }
 }

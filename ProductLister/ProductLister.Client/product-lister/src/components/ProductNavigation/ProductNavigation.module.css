@@ -1,0 +1,43 @@
+.paginationContainer {
+	display: flex;
+	margin: 15px 5px;
+	flex: 1fr 1fr;
+}
+
+.functionContainer {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.paginationMain {
+	display: flex;
+	align-items: center;
+	flex-grow: 1;
+	justify-content: flex-end;
+}
+
+.currentPage {
+	font-size: 1.4em;
+	font-weight: bold;
+	min-width: 30px;
+}
+
+.paginationBtn {
+	margin: 5px;
+	padding: 5px;
+	width: 30px;
+	height: 30px;
+	border: solid 1px #ddd;
+	border-radius: 5px;
+	background-color: transparent;
+}
+
+.paginationBtn:hover {
+	background-color: #666;
+}
+
+.selectList {
+	border-radius: 5px;
+	padding: 5px;
+	margin: 5px 0 5px 10px;
+}

@@ -24,13 +24,11 @@ namespace ProductLister.Application.Commands.ProductItems
 
         public async Task<ProductItemDto> Handle(AddNewProductQuery request, CancellationToken ct)
         {
-            //var categoryIds = request.NewProduct.CategoryIds.Select(cid => new CategoryReference(cid));
-
             var product = new Product
             {
                 ProductName = request.NewProduct.Name,
                 ProductVendor = request.NewProduct.Vendor,
-                ProductPrice = request.NewProduct.Price,
+                ProductPrice = decimal.Round(request.NewProduct.Price, 2, MidpointRounding.AwayFromZero),
                 CategoryIds = request.NewProduct.CategoryIds
             };
 
@@ -42,7 +40,7 @@ namespace ProductLister.Application.Commands.ProductItems
                 Id = newItem.ProductId,
                 Name = newItem.ProductName,
                 Vendor = newItem.ProductVendor,
-                Price = newItem.ProductPrice,
+                Price = decimal.Round(newItem.ProductPrice, 2, MidpointRounding.AwayFromZero),
                 Categories = categories.Select(c => new CategoryDto
                 {
                     Id = c.CategoryId,
