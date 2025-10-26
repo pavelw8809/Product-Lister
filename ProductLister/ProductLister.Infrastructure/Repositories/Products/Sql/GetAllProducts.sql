@@ -1,4 +1,5 @@
-﻿WITH selected_products AS (
+﻿
+WITH selected_products AS (
 	SELECT
 		productid,
 		productname,
